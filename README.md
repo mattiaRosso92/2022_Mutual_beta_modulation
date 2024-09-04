@@ -1,8 +1,9 @@
 # 2022_Mutual_beta_modulation
 Analysis scripts of the publication "Mutual beta power modulation in dyadic entrainment" (2022, NeuroImage)
 
+Link to the manuscript: https://www.sciencedirect.com/science/article/pii/S1053811922004451
 
-Abstract.
+
 Across a broad spectrum of interactions, humans exhibit a prominent tendency to synchronize their movements with one another. Traditionally, this phenomenon has been explained from the perspectives of predictive coding or dynamical systems theory. While these theories diverge with respect to whether individuals hold internal models of each other, they both assume a predictive or anticipatory mechanism enabling rhythmic interactions. However, the neural bases underpinning interpersonal synchronization are still a subject under active investigation. Here we provide evidence that the brain relies on a common oscillatory mechanism to pace self-generated rhythmic movements and to track the movements produced by a partner. By performing dual-electroencephalography recordings during a joint finger-tapping task, we identified an oscillatory component in the beta range (∼ 20 Hz), which was significantly modulated by both self-generated and other-generated movement. In conditions where the partners perceived each other, we observed periodic fluctuations of beta power as a function of the reciprocal movement cycles. Crucially, this modulation occurred both in visually and in auditorily coupled conditions, and was accompanied by recurrent periods of dyadic synchronized behavior. Our results show that periodic beta power modulations may be a critical mechanism underlying interpersonal synchronization, possibly enabling mutual predictions between coupled individuals, leading to co-regulation of timing and overt mutual adaptation. Our findings thus provide a potential bridge between influential theories attempting to explain interpersonal coordination, and a concrete connection to its neurophysiological bases.
 
 Mattia Rosso, Ole A. Heggli, Pieter J. Maes, Peter Vuust, Marc Leman (2022)
